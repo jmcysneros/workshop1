@@ -1,8 +1,5 @@
-echo "# workshop1" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/jmcysneros/workshop1.git
-git push -u origin main
+I study cybersecurity
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
 https://img.shields.io/badge/LinkedIn: LinkedIn-blue
